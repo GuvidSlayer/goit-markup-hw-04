@@ -54,7 +54,6 @@ img {
   width: 100%;
   min-width: 264px;
   margin-right: 24px;
-  width: calc((100% - 72px) / 4);
 }
 .extra {
   flex-basis: calc((100% - 3 * 24px) / 4);
@@ -70,7 +69,21 @@ img {
   margin-right: 0;
   gap: 40px;
 }
-
+.list-index {
+  list-style: none;
+  background-color: #ffffffff;
+  display: flex;
+  gap: 40px;
+  gap: 24px;
+  margin-bottom: 72px;
+  flex-wrap: wrap;
+  justify-content: center;
+  row-gap: 48px;
+  width: 100%;
+  min-width: 264px;
+  margin-right: 24px;
+  width: calc((100% - 72px) / 4);
+}
 .portfolio-img-div {
   padding: 32px 16px;
   border: 1px solid #e7e9fc;
