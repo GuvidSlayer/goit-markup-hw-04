@@ -43,8 +43,9 @@ body {
   color: var(--slate-color);
   background: var(--white-color);
 }
-
-header.top-line {
+.header-index {
+  box-shadow: 0px 2px 1px rgba(46, 47, 66, 0.08),
+    0px 1px 1px rgba(46, 47, 66, 0.16), 0px 1px 6px rgba(46, 47, 66, 0.08);
 }
 
 .link {
@@ -117,6 +118,11 @@ header.top-line {
   color: var(--white-color);
   text-align: center;
   padding: 188px 0;
+  background-image: linear-gradient(
+      rgba(46, 47, 66, 0 7),
+      rgba(46, 47, 66, 0.7)
+    ),
+    url(../images/people_office.jpg);
 }
 .hero-section-header {
   font-size: 56px;
