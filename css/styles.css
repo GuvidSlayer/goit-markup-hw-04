@@ -114,6 +114,10 @@ body {
 }
 
 .hero-section {
+  max-width: 1440px;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
   background: var(--navy-blue-color);
   color: var(--white-color);
   text-align: center;
