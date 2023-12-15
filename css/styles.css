@@ -115,9 +115,7 @@ body {
 
 .hero-section {
   max-width: 1440px;
-  background-repeat: no-repeat;
-  background-position: center;
-  background-size: cover;
+
   background: var(--navy-blue-color);
   color: var(--white-color);
   text-align: center;
@@ -127,6 +125,9 @@ body {
       rgba(46, 47, 66, 0.7)
     ),
     url(../images/people_office.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
 }
 .hero-section-header {
   font-size: 56px;
