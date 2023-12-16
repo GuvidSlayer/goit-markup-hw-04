@@ -177,6 +177,7 @@ body {
   letter-spacing: 0.72px;
   text-transform: capitalize;
   padding-bottom: 72px;
+  margin-bottom: 72px;
 }
 .items-title {
   color: var(--navy-blue-color);
