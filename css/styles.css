@@ -370,3 +370,6 @@ body {
   border-color: #404bbf;
   color: #404bbf;
 }
+.fifth-svg {
+  fill: currentColor;
+}
