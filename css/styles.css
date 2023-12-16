@@ -225,6 +225,9 @@ body {
   background: var(--navy-blue-color);
   color: var(--cloud-color);
 }
+.footer-second-div {
+  margin-right: 120px;
+}
 .footer-paragraph {
   width: 264px;
   padding-top: 17.5px;
@@ -234,7 +237,6 @@ body {
   padding-bottom: 100px;
   display: flex;
   align-items: baseline;
-  gap: 120px;
 }
 .logo-studio-footer {
   color: var(--cloud-color);
