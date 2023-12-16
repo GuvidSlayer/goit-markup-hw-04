@@ -327,7 +327,6 @@ body {
   border-radius: 50%;
   display: flex;
   align-items: center;
-  align-items: center;
 }
 .section-four-svg-link:hover {
   background-color: #404bbf;
@@ -337,4 +336,13 @@ body {
 }
 .our-team-svg {
   fill: var(--cloud-color);
+}
+/* customers */
+.fifth-section {
+  padding-top: 120px;
+  padding-bottom: 120px;
+}
+.fifth-list {
+  display: flex;
+  gap: 24px;
 }
