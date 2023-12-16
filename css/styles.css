@@ -335,3 +335,6 @@ body {
 .section-four-svg-link:focus {
   background-color: #404bbf;
 }
+.our-team-svg {
+  fill: var(--cloud-color);
+}
