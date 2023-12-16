@@ -234,6 +234,8 @@ body {
 }
 .paragraph-second {
   font-weight: 500;
+  columns: var(--white-color);
+  margin-bottom: 16px;
 }
 .footer-box {
   padding-top: 101.5px;
@@ -244,7 +246,14 @@ body {
 .logo-studio-footer {
   color: var(--cloud-color);
 }
-
+.footer-social {
+  display: flex;
+  gap: 16px;
+}
+.footer-social-list {
+  width: 40px;
+  height: 40px;
+}
 .wawd-section {
   display: flex;
   gap: 24px;
