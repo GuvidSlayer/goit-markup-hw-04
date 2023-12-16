@@ -231,6 +231,7 @@ body {
 .footer-paragraph {
   width: 264px;
   padding-top: 17.5px;
+  font-weight: 500;
 }
 .footer-box {
   padding-top: 101.5px;
