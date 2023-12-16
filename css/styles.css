@@ -317,6 +317,7 @@ body {
   display: flex;
   justify-content: center;
   gap: 24px;
+  list-style: none;
 }
 .section-four-svg {
   width: 40px;
@@ -347,6 +348,7 @@ body {
 .fifth-list {
   display: flex;
   gap: 24px;
+  list-style: none;
 }
 .fifth-list-icons {
   width: calc((100% - 120px) / 6);
